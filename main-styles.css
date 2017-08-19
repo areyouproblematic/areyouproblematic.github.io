@@ -10,8 +10,6 @@ p {
 img {
   display: block;
   margin: auto;
-  margin-top: 50px;
-  margin-bottom: 50px;
 }
 
 .header {
@@ -20,4 +18,9 @@ img {
 
 .mission-statement {
   margin: 10px;
+}
+
+.images {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
