@@ -3,6 +3,21 @@ body {
   text-align: center;
 }
 
+p {
+  text-align: left;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
 .header {
   font-size: 48px;
+}
+
+.mission-statement {
+  margin: 10px;
 }
